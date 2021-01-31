@@ -1,4 +1,4 @@
-package Interface;
+package interface;
 
 interface Animal {
     public void eat();

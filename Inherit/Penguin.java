@@ -1,4 +1,4 @@
-package Inherit;
+package inherit;
 
 public class Penguin extends Animal{
         public Penguin(String myName, int myId){

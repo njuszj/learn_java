@@ -1,4 +1,4 @@
-package Inherit;
+package inherit;
 
 public class Mouse extends Animal{
         public Mouse(String myName, int myId){

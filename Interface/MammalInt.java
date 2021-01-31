@@ -1,4 +1,4 @@
-package Interface;
+package interface;
 
 public class MammalInt implements Animal{
     public void eat(){
